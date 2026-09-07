@@ -1,0 +1,21 @@
+{
+  "name": "thesis-pipeline",
+  "version": "0.2.0",
+  "description": "A disciplined research and writing pipeline for humanities masters dissertations: verified citations, reading gates, rival checks, primary-source handling, and a revoicing loop that keeps the prose yours. Works in Obsidian, Notion or plain files.",
+  "author": {
+    "name": "Faraz Fookeer"
+  },
+  "license": "MIT",
+  "keywords": [
+    "dissertation",
+    "thesis",
+    "humanities",
+    "research",
+    "literature-review",
+    "academic-writing",
+    "citations",
+    "obsidian",
+    "notion",
+    "masters"
+  ]
+}
